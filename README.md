@@ -6,13 +6,7 @@ A data-driven dashboard that analyzes 3 years of India’s Electric Vehicle (EV)
 ### Project Overview
 
 This Power BI project analyzes EV adoption trends across Indian states and top manufacturers using cleaned datasets for:
-● Sales by State
-
-● Sales by Manufacturer
-
-● Sales by Year
-
-Python and Excel were used for data cleaning (Cleaned_date.csv, Cleaned_sales_by_state.csv, Cleaned_sales_by_makers.csv), and the visuals were developed in Power BI.
+● Sales by State ● Sales by Manufacturer ● Sales by Year Python and Excel were used for data cleaning (Cleaned_date.csv, Cleaned_sales_by_state.csv, Cleaned_sales_by_makers.csv), and the visuals were developed in Power BI.
 
 ### Dashboard Pages
 
@@ -41,11 +35,12 @@ Cleaned and merged datasets used for accurate analysis
 ### Business Value
 
 This dashboard helps:
-Stakeholders track EV adoption trends in India
 
-Investors identify promising markets and manufacturers
+● Stakeholders track EV adoption trends in India
 
-Policymakers strategize EV infrastructure rollouts
+● Investors identify promising markets and manufacturers
+
+● Policymakers strategize EV infrastructure rollouts
 
 ### Tools & Technologies
 
