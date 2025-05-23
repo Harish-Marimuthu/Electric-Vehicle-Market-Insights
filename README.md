@@ -1,37 +1,66 @@
-# Electric-Vehicle-Market-Insights
+# Electric Vehicle Market Insights Dashboard (India)
+Power BI | Python | Excel | Data Analytics | Forecasting
 
-A data-driven Power BI dashboard analyzing 3 years of EV sales data across India. It provides state-wise and manufacturer-wise insights, CAGR analysis, and market projections through 2030. Developed using Power BI, Excel, and Python, the dashboard delivers strategic business intelligence and actionable insights for EV stakeholders.
+A data-driven dashboard that analyzes 3 years of India’s Electric Vehicle (EV) sales, providing state-wise, maker-wise, and time-wise insights with forecasting up to 2030. The project helps stakeholders make informed decisions using visual data storytelling.
 
 ### Project Overview
-This comprehensive analytics project visualizes and analyzes three years of electric vehicle sales data across India through an interactive Power BI dashboard. Excel and Python were used for data preparation, while optimized DAX functions enhance performance and usability.
 
-### Dashboard Features
-Home Page: Overview of EV market trends
-Maker View: In-depth analysis of individual manufacturers
-State View: Regional breakdown and market penetration
-Forecasting: Market projections through 2030
+This Power BI project analyzes EV adoption trends across Indian states and top manufacturers using cleaned datasets for:
+Sales by State
+Sales by Manufacturer
+Sales by Year
+Python and Excel were used for data cleaning (Cleaned_date.csv, Cleaned_sales_by_state.csv, Cleaned_sales_by_makers.csv), and the visuals were developed in Power BI.
+
+### Dashboard Pages
+
+Home Page
+Gives an overview of India's EV growth trends with CAGR and national-level summaries.
+
+State View
+Visualizes EV adoption by state, helping identify high-growth regions.
+
+Maker View
+Breaks down EV sales by manufacturers, highlighting market leaders.
+
+Conclusion
+Key findings and actionable insights for policy makers and investors.
+
+### Key Insights
+
+93.91% CAGR in Indian EV sales (past 3 years)
+
+Maharashtra is forecasted to reach 10.48 million units by 2030
+
+State-level and brand-specific insights drive regional strategies
+
+Cleaned and merged datasets used for accurate analysis
 
 ### Business Value
 
-The Indian EV market is rapidly transforming. This dashboard empowers companies and investors to:
-Analyze market readiness and performance
-Identify regional and manufacturer-specific growth opportunities
-Develop targeted strategies for market expansion
+This dashboard helps:
+Stakeholders track EV adoption trends in India
 
-### Key Highlights
+Investors identify promising markets and manufacturers
 
-Achieved a 93.91% CAGR in EV sales
-Forecasted 10.48 million EV units in Maharashtra by 2030
-Delivered granular state-wise and manufacturer-level insights
-Enabled data-driven decision-making for EV market growth
+Policymakers strategize EV infrastructure rollouts
 
 ### Tools & Technologies
-Power BI · Microsoft Excel · Python · DAX · Data Analytics · Data Storytelling
+
+Power BI – Dashboarding & DAX
+
+Python – Data cleaning & preprocessing
+
+Excel – Initial aggregation & validation
 
 ### Skills Applied
 
-Power BI (Data Modeling, DAX)
-Excel (Data Cleaning & Aggregation)
-Python (Data Processing)
-Data Storytelling
-Market Forecasting
+Power BI (DAX, Drillthroughs, Bookmarks)
+
+Python (Pandas for CSV cleaning)
+
+Excel (Data preprocessing)
+
+Data Visualization & Storytelling
+
+Market Trend Forecasting
+
