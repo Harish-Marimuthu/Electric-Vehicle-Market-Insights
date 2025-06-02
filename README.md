@@ -32,16 +32,6 @@ State-level and brand-specific insights drive regional strategies
 
 Cleaned and merged datasets used for accurate analysis
 
-### Business Value
-
-This dashboard helps:
-
-● Stakeholders track EV adoption trends in India
-
-● Investors identify promising markets and manufacturers
-
-● Policymakers strategize EV infrastructure rollouts
-
 ### Tools & Technologies
 
 Power BI – Dashboarding & DAX
@@ -61,4 +51,25 @@ Excel (Data preprocessing)
 Data Visualization & Storytelling
 
 Market Trend Forecasting
+
+### Files Included
+
+- Datasets
+- Cleaned_date.csv	→ Preprocessed dataset with sales aggregated by date
+- Cleaned_sales_by_makers.csv	→ Cleaned dataset showing sales distribution across car makers
+- Cleaned_sales_by_state.csv	→ Cleaned dataset showing state-wise sales distribution
+- Home Page.png	  → Visual showing insights homepage
+- Maker View.png	→ Visual showing insights filtered by car makers
+- State View.png	→ Visual showing sales distribution across states
+- Conclusion.png	→ Image summarizing insights and business recommendations
+
+### Business Value
+
+This dashboard helps:
+
+● Stakeholders track EV adoption trends in India
+
+● Investors identify promising markets and manufacturers
+
+● Policymakers strategize EV infrastructure rollouts
 
